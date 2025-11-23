@@ -31,8 +31,8 @@ C22 = M1 − M2 + M3 + M6
 ```
 /*
 Program to implement Reverse a String
-Developed by: ANU RADHA N
-Register Number:212223230018
+Developed by: Aravind Kumar SS
+Register Number: 212223110004
 import java.util.Scanner;
 
 public class StrassenMatrix {
